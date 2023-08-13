@@ -1,6 +1,6 @@
 # Sentence Expansion using GPT-2
 
-![GPT-2 Sentence Expansion](https://i.gifer.com/Owf9.gif)
+![GPT-2 Sentence Expansion](https://storage.prompt-hunt.workers.dev/clfam52lh000cl908lxxg30zb_1)
 
 Welcome to the **Sentence Expansion using GPT-2** GitHub repository! This project showcases my work on sentence expansion using the GPT-2 model, which I developed as part of my project. Sentence expansion involves taking an incomplete sentence and generating a coherent continuation to make it more detailed and informative.
 
