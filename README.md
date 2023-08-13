@@ -16,10 +16,8 @@ Welcome to the **Sentence Expansion using GPT-2** GitHub repository! This projec
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Training](#training)
-- [Evaluation](#evaluation)
+  - [cloning](#installation)
+
 - [Contributing](#contributing)
 - [License](#license)
 
