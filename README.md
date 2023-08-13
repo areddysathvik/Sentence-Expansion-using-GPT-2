@@ -1,6 +1,6 @@
 # Sentence Expansion using GPT-2
 
-![GPT-2 Sentence Expansion]([https://storage.googleapis.com/wandb-production.appspot.com/wandb-public-images/tk8kfl2kbl.png])
+![Sentence completion](https://storage.googleapis.com/wandb-production.appspot.com/wandb-public-images/tk8kfl2kbl.png)
 
 Welcome to the **Sentence Expansion using GPT-2** GitHub repository! This project aims to demonstrate how to fine-tune the GPT-2 model for sentence completion using the Simple Transformers library. Sentence expansion involves taking an incomplete sentence and generating a coherent continuation to make it more detailed and informative.
 
